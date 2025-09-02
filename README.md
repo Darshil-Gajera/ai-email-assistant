@@ -1,21 +1,22 @@
-# AI Email Assistant ✉️🤖
+# 📧 AI Email Assistant
 
-An AI-powered email assistant that helps you **write, reply, or summarize emails** in different tones (formal or friendly).  
-Built with **Hugging Face Transformers**, **FLAN-T5 model**, and **Streamlit**.
+AI-powered Email Assistant built with **Streamlit** and **Hugging Face Transformers**.  
+It helps you **generate, reply, or summarize emails** in either **formal** or **friendly** tone.
 
 ---
 
 ## 🚀 Features
-- 📝 Generate new emails (formal / friendly tone)  
-- 📩 Reply to existing emails  
-- 📌 Summarize long emails into key points  
-- 🎯 Powered by [google/flan-t5-base](https://huggingface.co/google/flan-t5-base)  
+- ✍️ Write professional or friendly emails  
+- 📩 Reply to emails quickly  
+- 📝 Summarize long emails  
+- 🎨 Choose between **formal** or **friendly** tone  
+- ⚡ Powered by `google/flan-t5` model  
 
 ---
 
 ## 🛠️ Installation
 
-Clone the repo:
-```bash
-git clone https://github.com/your-username/ai-email-assistant.git
-cd ai-email-assistant
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/ai-email-assistant.git
+   cd ai-email-assistant
